@@ -1,10 +1,4 @@
 - 👋 Hi, I’m @austinwpearce
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-austinwpearce/austinwpearce is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🚜 I work in the overlap of agronomy and environmental science
+- 📈 I'm always learning about different kinds of statistical analyses and how to better collaborate and report
+- 👀 Check out my [page](austinwpearce.github.io)
