@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @austinwpearce
 - 🚜 I work in the overlap of agronomy and environmental science
 - 📈 I'm always learning about different kinds of statistical analyses and how to better collaborate and report
-- 👀 Check out my [page](https://austinwpearce.github.io) or my [blog](https://gradcylinder.org) or my [weekly links](https://dryingrack.substack.com)
+- 👀 Check out my [site](https://gradcylinder.org) or my [weekly links](https://dryingrack.substack.com)
